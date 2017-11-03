@@ -4,5 +4,5 @@
 ### Unity Stuff:
 ### [Asset Store](https://www.assetstore.unity3d.com/en)
 ### [Tutorials](https://unity3d.com/learn/tutorials)
-### \n
+### <br />
 ### [Link to other part of the project](https://github.com/wmcclinton/2018_EXPO_Project)
